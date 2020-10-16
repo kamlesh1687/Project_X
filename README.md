@@ -1,6 +1,12 @@
-# projectnew
+# projectX
 
-A new Flutter project.
+A new Flutter demo project with Clean Architecture and Provider
+In this project i am following a clean approach in which I seprated all business logics and UI part in two different class.
+Eg:=
+View Class=UI implementation;
+View Model Class=Logics 
+Change Notifer =state management 
+
 
 ## Getting Started
 
